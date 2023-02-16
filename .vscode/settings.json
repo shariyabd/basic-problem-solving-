@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.php": "php",
+        "*.json": "blade",
+        "iostream": "cpp"
+    }
+}
